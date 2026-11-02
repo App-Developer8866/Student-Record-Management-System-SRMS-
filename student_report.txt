@@ -1,0 +1,13 @@
+STUDENT RECORD MANAGEMENT SYSTEM - REPORT
+==========================================
+Total students: 2
+Average marks: 85.00/100
+Highest marks: 88.00/100
+Lowest marks: 82.00/100
+Passed (50+): 2
+Failed (<50): 0
+
+ID      Name                    Department                                  Semester  Marks     Grade   Study Hours
+------------------------------------------------------------------------------------------------------------------------
+708820  Rasool                  Smart Convergence System Engineering        1         88.00     A       3.00
+714450  ABC                     GAIE                                        1         82.00     A       2.00
